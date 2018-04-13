@@ -1,0 +1,11 @@
+C:\Users\Baibhav Verma\Desktop\finalwebapi\finalwebapi\bin\Debug\netcoreapp2.0\finalwebapi.deps.json
+C:\Users\Baibhav Verma\Desktop\finalwebapi\finalwebapi\bin\Debug\netcoreapp2.0\finalwebapi.runtimeconfig.json
+C:\Users\Baibhav Verma\Desktop\finalwebapi\finalwebapi\bin\Debug\netcoreapp2.0\finalwebapi.runtimeconfig.dev.json
+C:\Users\Baibhav Verma\Desktop\finalwebapi\finalwebapi\bin\Debug\netcoreapp2.0\finalwebapi.dll
+C:\Users\Baibhav Verma\Desktop\finalwebapi\finalwebapi\bin\Debug\netcoreapp2.0\finalwebapi.pdb
+C:\Users\Baibhav Verma\Desktop\finalwebapi\finalwebapi\obj\Debug\netcoreapp2.0\finalwebapi.csprojResolveAssemblyReference.cache
+C:\Users\Baibhav Verma\Desktop\finalwebapi\finalwebapi\obj\Debug\netcoreapp2.0\finalwebapi.csproj.CoreCompileInputs.cache
+C:\Users\Baibhav Verma\Desktop\finalwebapi\finalwebapi\obj\Debug\netcoreapp2.0\finalwebapi.AssemblyInfoInputs.cache
+C:\Users\Baibhav Verma\Desktop\finalwebapi\finalwebapi\obj\Debug\netcoreapp2.0\finalwebapi.AssemblyInfo.cs
+C:\Users\Baibhav Verma\Desktop\finalwebapi\finalwebapi\obj\Debug\netcoreapp2.0\finalwebapi.dll
+C:\Users\Baibhav Verma\Desktop\finalwebapi\finalwebapi\obj\Debug\netcoreapp2.0\finalwebapi.pdb
